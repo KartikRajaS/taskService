@@ -1,7 +1,7 @@
 # taskService
 This repository contains codebase for taskService API services 
 
-git clone https://github.com/nishantll/taskService.git
+git clone https://github.com/KartikRajaS/taskService.git
 
 cd taskService
 
